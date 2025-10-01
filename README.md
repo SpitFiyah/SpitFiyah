@@ -8,12 +8,12 @@
 
 ## 🚀 About Me
 
-Aspiring software developer, caffeine-dependent lifeform, and eternal bug hunter.  
+Aspiring software developer, eternal bug hunter.  
 Currently on a quest to master code (and occasionally, my own sleep schedule).
 
 **Other Interests:**  
 ♟️ Chess enthusiast — trying to master the Sicilian Defense (or at least spell it right)  
-📚 Philosophy enthusiast — because who doesn’t enjoy a good existential crisis with their morning coffee?
+📚 Philosophy enthusiast — because who doesn’t enjoy a good existential crisis ?
 
 ---
 
