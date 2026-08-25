@@ -34,11 +34,7 @@
 $ cat about.txt
 ```
 
-Hi, I'm **Afnan Tariq**! I'm a Computer Science Engineering student who likes pulling abstractions apart to see what is underneath them.
-
-- CSE student exploring **cybersecurity** from the bottom of the stack.
-- Interested in understanding **systems** rather than only using them.
-- Currently exploring **offensive security, networking, operating systems, low-level programming, Python and C**.
+Hi, I'm **Afnan Tariq**! I'm a Computer Science Engineering student. I'm interested in Cybersecurity and Low level systems prrogramming (Operating Systems, NNetworking, Windows/Linux Internals).
 
 ---
 
@@ -51,8 +47,8 @@ Hi, I'm **Afnan Tariq**! I'm a Computer Science Engineering student who likes pu
 </div>
 
 ```
-  Languages   C, Python, Bash, Shell
-  Systems     Linux/Windows Internals, Operating Systems, Virtualization
+  Languages   C, Python, Bash, Shell, Java
+  Systems     Linux/Windows Internals, Operating Systems
   Domain      Cybersecurity, Offensive Security, Networking (TCP/IP, DNS), Low-Level Programming
   Tools       Git, GitHub, VS Code, Linux Shell, Network & Packet Analysis
 ```
@@ -63,11 +59,8 @@ Hi, I'm **Afnan Tariq**! I'm a Computer Science Engineering student who likes pu
 
 - **Cybersecurity** — Offensive security, reconnaissance, OSINT, vulnerability research, and security tooling.
 - **Networking** — DNS, TCP/IP, packet analysis, network discovery, protocol behaviour, and network mapping.
-- **Systems** — Operating systems, virtualization, Windows/Linux internals, and low-level behaviour.
+- **Systems** — Operating systems, Windows/Linux internals, and low-level behaviour.
 - **Low-Level Programming** — C, memory, pointers, processes, system interfaces, and understanding machine-level execution.
-- **Programming** — Python for automation, research tooling, and experiments; C for getting closer to the metal.
-- **Computer Science** — Algorithms, computer architecture, operating systems, and machinery underneath abstractions.
-
 ---
 
 ## `~/` selected work
