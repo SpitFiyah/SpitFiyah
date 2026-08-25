@@ -78,9 +78,12 @@ Hi, I'm **Afnan Tariq**! I'm a Computer Science Engineering student who likes pu
 
 ---
 
-## `~/` stats
+## `~/` stats & skill radar
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SpitFiyah&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SpitFiyah&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=SpitFiyah&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SpitFiyah&layout=compact&theme=dark" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SpitFiyah&theme=dracula" alt="Skill Radar" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SpitFiyah&theme=dracula" alt="Language Breakdown" />
 </div>
