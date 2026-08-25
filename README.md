@@ -34,7 +34,7 @@
 $ cat about.txt
 ```
 
-Hi, I'm **Afnan Tariq**! I'm a Computer Science Engineering student. I'm interested in Cybersecurity and Low level systems prrogramming (Operating Systems, NNetworking, Windows/Linux Internals).
+Hi, I'm **Afnan Tariq**! I'm a Computer Science Engineering student. I'm interested in Cybersecurity and Low level systems programming (Operating Systems, Networking, Windows/Linux Internals).
 
 ---
 
